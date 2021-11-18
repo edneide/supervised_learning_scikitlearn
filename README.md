@@ -1,6 +1,6 @@
 # Supervised Learning with Scikitlearn
 
-![](images/sklearn)
+![](images/sklearn.png)
 
 
-Repository containing the scrips from Data Camp course. This is part of my journey of learning data science. 
+Repository containing the scrips from Data Camp course. This is part of my data science learning journey. 
